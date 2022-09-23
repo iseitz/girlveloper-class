@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# girlveloper-class
+The learning platform with a capacity to add classes and submit completed tasks
+>>>>>>> b581afb848c60b4bbdfa588581c67b257fd7eddb
